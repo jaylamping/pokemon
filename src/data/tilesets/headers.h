@@ -753,6 +753,6 @@ const struct Tileset gTileset_NewBarkTown =
         .tiles = gTilesetTiles_NewBarkTown,
         .palettes = gTilesetPalettes_NewBarkTown,
         .metatiles = gMetatiles_NewBarkTown,
-        .metatileAttributes = gMetatileAttributes_NewBarkTown,
+        // .metatileAttributes = gMetatileAttributes_NewBarkTown,
         .callback = NULL,
 };
