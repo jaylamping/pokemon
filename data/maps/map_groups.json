@@ -114,14 +114,11 @@
     "SevenIsland_SevaultCanyon",
     "SevenIsland_TanobyRuins"
   ],
-  "gMapGroup_Johto_TownsAndRoutes": [],
-  "gMapGroup_Hoenn_TownsAndRoutes": [],
-  "gMapGroup_Kanto_Link": [
-    "BattleColosseum_2P",
-    "TradeCenter",
-    "RecordCorner",
-    "BattleColosseum_4P",
-    "UnionRoom"
+  "gMapGroup_Johto_TownsAndRoutes": [
+    "NewBarkTown"
+  ],
+  "gMapGroup_Hoenn_TownsAndRoutes": [
+
   ],
   "gMapGroup_Kanto_Dungeons": [
     "ViridianForest",
@@ -310,7 +307,6 @@
     "BirthIsland_Harbor",
     "NavelRock_Harbor"
   ],
-
   "gMapGroup_Kanto_IndoorPallet": [
     "PalletTown_PlayersHouse_1F",
     "PalletTown_PlayersHouse_2F",
@@ -443,8 +439,12 @@
     "Route6_NorthEntrance",
     "Route6_UnusedHouse"
   ],
-  "gMapGroup_Kanto_IndoorRoute7": ["Route7_EastEntrance"],
-  "gMapGroup_Kanto_IndoorRoute8": ["Route8_WestEntrance"],
+  "gMapGroup_Kanto_IndoorRoute7": [
+    "Route7_EastEntrance"
+  ],
+  "gMapGroup_Kanto_IndoorRoute8": [
+    "Route8_WestEntrance"
+  ],
   "gMapGroup_Kanto_IndoorRoute10": [
     "Route10_PokemonCenter_1F",
     "Route10_PokemonCenter_2F"
@@ -471,10 +471,18 @@
     "Route18_EastEntrance_1F",
     "Route18_EastEntrance_2F"
   ],
-  "gMapGroup_Kanto_IndoorRoute19": ["Route19_UnusedHouse"],
-  "gMapGroup_Kanto_IndoorRoute22": ["Route22_NorthEntrance"],
-  "gMapGroup_Kanto_IndoorRoute23": ["Route23_UnusedHouse"],
-  "gMapGroup_Kanto_IndoorRoute25": ["Route25_SeaCottage"],
+  "gMapGroup_Kanto_IndoorRoute19": [
+    "Route19_UnusedHouse"
+  ],
+  "gMapGroup_Kanto_IndoorRoute22": [
+    "Route22_NorthEntrance"
+  ],
+  "gMapGroup_Kanto_IndoorRoute23": [
+    "Route23_UnusedHouse"
+  ],
+  "gMapGroup_Kanto_IndoorRoute25": [
+    "Route25_SeaCottage"
+  ],
   "gMapGroup_Kanto_IndoorSevenIsland": [
     "SevenIsland_House_Room1",
     "SevenIsland_House_Room2",
@@ -532,12 +540,27 @@
     "SixIsland_House",
     "SixIsland_Mart"
   ],
-  "gMapGroup_Kanto_IndoorThreeIslandRoute": ["ThreeIsland_Harbor"],
-  "gMapGroup_Kanto_IndoorFiveIslandRoute": ["FiveIsland_ResortGorgeous_House"],
-  "gMapGroup_Kanto_IndoorTwoIslandRoute": ["TwoIsland_CapeBrink_House"],
+  "gMapGroup_Kanto_IndoorThreeIslandRoute": [
+    "ThreeIsland_Harbor"
+  ],
+  "gMapGroup_Kanto_IndoorFiveIslandRoute": [
+    "FiveIsland_ResortGorgeous_House"
+  ],
+  "gMapGroup_Kanto_IndoorTwoIslandRoute": [
+    "TwoIsland_CapeBrink_House"
+  ],
   "gMapGroup_Kanto_IndoorSixIslandRoute": [
     "SixIsland_WaterPath_House1",
     "SixIsland_WaterPath_House2"
   ],
-  "gMapGroup_Kanto_IndoorSevenIslandRoute": ["SevenIsland_SevaultCanyon_House"]
+  "gMapGroup_Kanto_IndoorSevenIslandRoute": [
+    "SevenIsland_SevaultCanyon_House"
+  ],
+  "gMapGroup_Kanto_Link": [
+    "BattleColosseum_2P",
+    "TradeCenter",
+    "RecordCorner",
+    "BattleColosseum_4P",
+    "UnionRoom"
+  ]
 }

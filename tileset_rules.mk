@@ -200,3 +200,11 @@ $(TILESETGFXDIR)/secondary/sevii_islands_123/tiles.4bpp: %.4bpp: %.png
 
 $(TILESETGFXDIR)/secondary/island_harbor/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 165 -Wnum_tiles
+
+
+# Kanto
+
+$(TILESETGFXDIR)/secondary/new_bark_town/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 112 -Wnum_tiles
+
+

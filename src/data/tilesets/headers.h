@@ -745,3 +745,14 @@ const struct Tileset gTileset_HallOfFame =
         .metatileAttributes = gMetatileAttributes_HallOfFame,
         .callback = NULL,
 };
+
+const struct Tileset gTileset_NewBarkTown =
+    {
+        .isCompressed = TRUE,
+        .isSecondary = TRUE,
+        .tiles = gTilesetTiles_NewBarkTown,
+        .palettes = gTilesetPalettes_NewBarkTown,
+        .metatiles = gMetatiles_NewBarkTown,
+        .metatileAttributes = gMetatileAttributes_NewBarkTown,
+        .callback = NULL,
+};
