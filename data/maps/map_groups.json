@@ -2,6 +2,7 @@
   "group_order": [
     "gMapGroup_Kanto_TownsAndRoutes",
     "gMapGroup_Johto_TownsAndRoutes",
+    "gMapGroup_Hoenn_TownsAndRoutes",
     "gMapGroup_Kanto_Dungeons",
     "gMapGroup_Kanto_SpecialArea",
     "gMapGroup_Kanto_IndoorPallet",
@@ -114,6 +115,7 @@
     "SevenIsland_TanobyRuins"
   ],
   "gMapGroup_Johto_TownsAndRoutes": [],
+  "gMapGroup_Hoenn_TownsAndRoutes": [],
   "gMapGroup_Kanto_Link": [
     "BattleColosseum_2P",
     "TradeCenter",
